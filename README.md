@@ -3,7 +3,7 @@
 🔭 I’m currently working on React.js, Next.js and Django.
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paul-Okello1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paul-Okello&theme=dark)](https://git.io/streak-stats)
 
 
 
