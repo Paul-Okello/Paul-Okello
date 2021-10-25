@@ -1,4 +1,7 @@
-### Hi there 👋
+### :smile:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Welcome+to+my+repository)](https://git.io/typing-svg)
+
 
 🔭 I’m currently working on React.js, Next.js and Django.
 
