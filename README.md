@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🔭 I’m currently working on React.js, Next.js and Django.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul-Okello)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul-Okello&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
