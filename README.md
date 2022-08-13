@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Welcome+to+my+repository)](https://git.io/typing-svg)
 
 
-🔭 I’m currently working on React.js, Next.js and Django.
+🔭I am a JavaScript developer focusing on frontend Frameworks such as React and Vue. I am passionate about Design Systems, Web Accessibility, and Serverless Technologies such as Microsoft Azure and AWS. To grow my skills, I focus on building a JavaScript APIs Markup (JAM) stack application that helps with the pet adoption process. I love bodybuilding, traveling, and playing video games.
 
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul-Okello&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
