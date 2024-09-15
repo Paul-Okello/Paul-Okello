@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  I'm Paul Okello, a software engineer and blogger based in Kenya. Passionate about leveraging technology to solve complex problems, mentoring the next generation of developers, and advancing expertise in AI and coding. My ultimate goal is to become a leading expert in AI and coding, helping people be successful.
+ I love solving problems and making things simpler. I build easy-to-use websites and apps using React and handle backend work with Node.js and Python. My focus is on helping startups create products that people enjoy using by making sure everything works smoothly and fits user needs.
 </p>
 
 - 🎥 Currently building: [Mizulabs](https://mizulabs.tech/)
