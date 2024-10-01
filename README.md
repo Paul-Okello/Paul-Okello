@@ -22,8 +22,3 @@ I specialize in creating seamless, user-centric web applications using React, No
 - **Chakra Learning App**: Integrated concepts from spirituality and science to build an interactive chakra learning tool using Node.js, TypeScript, and React.
 - **Bonfire Adventures**: Led mobile optimization and schema development for a travel platform, enhancing transparency and user trust.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Okello" alt="Paul-Okello" /></p>
-
----
-
-This version uses concise language, focuses on your value, and avoids fluff, ensuring clarity and impact.
