@@ -1,7 +1,3 @@
-Here's an optimized version of your profile, highlighting your strengths and value proposition clearly:
-
----
-
 <h1 align="center">Hi, I'm Paul Okello</h1>
 <h3 align="center">Software Engineer | Product Builder</h3>
 
