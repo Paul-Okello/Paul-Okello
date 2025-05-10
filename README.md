@@ -3,8 +3,6 @@
 
 I specialize in creating seamless, user-centric web applications using React, Node.js, and Python. My focus is on simplifying complex problems and building products that align with user needs, making technology work intuitively for startups and businesses.
 
-- 🎥 Currently building: [MizuLabs](https://mizulabs.tech/)
-- 🌱 Exploring: **AI Safety, Content Moderation, Marketing**
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
@@ -15,10 +13,4 @@ I specialize in creating seamless, user-centric web applications using React, No
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
-<h3 align="left">Projects & Achievements:</h3>
-
-- **DealKemist**: Built a real estate platform with Convex for backend management, Clerk for authentication, and React components for a fluid user experience.
-- **MizuLabs**: Demonstrated SEO and Next.js expertise through robust performance optimizations and modern design.
-- **Chakra Learning App**: Integrated concepts from spirituality and science to build an interactive chakra learning tool using Node.js, TypeScript, and React.
-- **Bonfire Adventures**: Led mobile optimization and schema development for a travel platform, enhancing transparency and user trust.
 
